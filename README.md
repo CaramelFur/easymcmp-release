@@ -1,0 +1,2 @@
+# easymcmp-release
+Releases
