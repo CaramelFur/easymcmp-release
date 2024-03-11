@@ -1,4 +1,4 @@
 
-# Easy Minecraft Multiplayer release
+# [Tunnel Worlds](https://tunnelworlds.com) Releases
 
-This is place where all the latest EasyMcMp releases are placed, currently there is only a mod jar available for fabricmc. An installer is planned for the future.
+This is place where all the latest Tunnel Worlds releases are placed, currently there is only a mod jar available for [FabricMC](https://fabricmc.net/). An installer is planned for the future.
